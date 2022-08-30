@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\exercicio-um\exercicio-um.csproj" />
+    <ProjectReference Include="..\exercicio-tres\exercicio-tres.csproj" />
+    <ProjectReference Include="..\exercicio-bonus\exercicio-bonus.csproj" />
+    <ProjectReference Include="..\exercicio-dois\exercicio-dois.csproj" />
+    <ProjectReference Include="..\exercicio-sete\exercicio-sete.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>main_program</RootNamespace>
+  </PropertyGroup>
+
+</Project>

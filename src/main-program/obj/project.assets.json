@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "exercicio-bonus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/exercicio-bonus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exercicio-bonus.dll": {}
+        }
+      },
+      "exercicio-dois/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/exercicio-dois.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exercicio-dois.dll": {}
+        }
+      },
+      "exercicio-sete/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/exercicio-sete.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exercicio-sete.dll": {}
+        }
+      },
+      "exercicio-tres/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/exercicio-tres.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exercicio-tres.dll": {}
+        }
+      },
+      "exercicio-um/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/exercicio-um.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/exercicio-um.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-bonus/1.0.0": {
+      "type": "project",
+      "path": "../exercicio-bonus/exercicio-bonus.csproj",
+      "msbuildProject": "../exercicio-bonus/exercicio-bonus.csproj"
+    },
+    "exercicio-dois/1.0.0": {
+      "type": "project",
+      "path": "../exercicio-dois/exercicio-dois.csproj",
+      "msbuildProject": "../exercicio-dois/exercicio-dois.csproj"
+    },
+    "exercicio-sete/1.0.0": {
+      "type": "project",
+      "path": "../exercicio-sete/exercicio-sete.csproj",
+      "msbuildProject": "../exercicio-sete/exercicio-sete.csproj"
+    },
+    "exercicio-tres/1.0.0": {
+      "type": "project",
+      "path": "../exercicio-tres/exercicio-tres.csproj",
+      "msbuildProject": "../exercicio-tres/exercicio-tres.csproj"
+    },
+    "exercicio-um/1.0.0": {
+      "type": "project",
+      "path": "../exercicio-um/exercicio-um.csproj",
+      "msbuildProject": "../exercicio-um/exercicio-um.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "exercicio-bonus >= 1.0.0",
+      "exercicio-dois >= 1.0.0",
+      "exercicio-sete >= 1.0.0",
+      "exercicio-tres >= 1.0.0",
+      "exercicio-um >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fena\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj",
+      "projectName": "main-program",
+      "projectPath": "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj",
+      "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\desafio-tdd\\src\\main-program\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj": {
+              "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj"
+            },
+            "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj": {
+              "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj"
+            },
+            "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj": {
+              "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj"
+            },
+            "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj": {
+              "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj"
+            },
+            "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj": {
+              "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\repos\desafio-tdd\src\exercicio-sete\bin\Debug\net5.0\exercicio-sete.deps.json
+C:\repos\desafio-tdd\src\exercicio-sete\bin\Debug\net5.0\exercicio-sete.dll
+C:\repos\desafio-tdd\src\exercicio-sete\bin\Debug\net5.0\ref\exercicio-sete.dll
+C:\repos\desafio-tdd\src\exercicio-sete\bin\Debug\net5.0\exercicio-sete.pdb
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.csproj.AssemblyReference.cache
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.AssemblyInfoInputs.cache
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.AssemblyInfo.cs
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.csproj.CoreCompileInputs.cache
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.dll
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\ref\exercicio-sete.dll
+C:\repos\desafio-tdd\src\exercicio-sete\obj\Debug\net5.0\exercicio-sete.pdb

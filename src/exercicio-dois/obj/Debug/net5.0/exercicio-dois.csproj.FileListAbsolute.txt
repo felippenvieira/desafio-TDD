@@ -1,0 +1,12 @@
+C:\repos\desafio-tdd\src\exercicio-dois\bin\Debug\net5.0\exercicio-dois.deps.json
+C:\repos\desafio-tdd\src\exercicio-dois\bin\Debug\net5.0\exercicio-dois.dll
+C:\repos\desafio-tdd\src\exercicio-dois\bin\Debug\net5.0\ref\exercicio-dois.dll
+C:\repos\desafio-tdd\src\exercicio-dois\bin\Debug\net5.0\exercicio-dois.pdb
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.AssemblyInfoInputs.cache
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.AssemblyInfo.cs
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.csproj.CoreCompileInputs.cache
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.dll
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\ref\exercicio-dois.dll
+C:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.pdb
+c:\repos\desafio-tdd\src\exercicio-dois\obj\Debug\net5.0\exercicio-dois.csproj.AssemblyReference.cache

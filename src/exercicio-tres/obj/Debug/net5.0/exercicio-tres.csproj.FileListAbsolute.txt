@@ -1,0 +1,12 @@
+C:\repos\desafio-tdd\src\exercicio-tres\bin\Debug\net5.0\exercicio-tres.deps.json
+C:\repos\desafio-tdd\src\exercicio-tres\bin\Debug\net5.0\exercicio-tres.dll
+C:\repos\desafio-tdd\src\exercicio-tres\bin\Debug\net5.0\ref\exercicio-tres.dll
+C:\repos\desafio-tdd\src\exercicio-tres\bin\Debug\net5.0\exercicio-tres.pdb
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.AssemblyInfoInputs.cache
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.AssemblyInfo.cs
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.csproj.CoreCompileInputs.cache
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.dll
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\ref\exercicio-tres.dll
+C:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.pdb
+c:\repos\desafio-tdd\src\exercicio-tres\obj\Debug\net5.0\exercicio-tres.csproj.AssemblyReference.cache

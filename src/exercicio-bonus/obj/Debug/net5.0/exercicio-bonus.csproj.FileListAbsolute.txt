@@ -1,0 +1,12 @@
+C:\repos\desafio-tdd\src\exercicio-bonus\bin\Debug\net5.0\exercicio-bonus.deps.json
+C:\repos\desafio-tdd\src\exercicio-bonus\bin\Debug\net5.0\exercicio-bonus.dll
+C:\repos\desafio-tdd\src\exercicio-bonus\bin\Debug\net5.0\ref\exercicio-bonus.dll
+C:\repos\desafio-tdd\src\exercicio-bonus\bin\Debug\net5.0\exercicio-bonus.pdb
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.AssemblyInfoInputs.cache
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.AssemblyInfo.cs
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.csproj.CoreCompileInputs.cache
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.dll
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\ref\exercicio-bonus.dll
+C:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.pdb
+c:\repos\desafio-tdd\src\exercicio-bonus\obj\Debug\net5.0\exercicio-bonus.csproj.AssemblyReference.cache

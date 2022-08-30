@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj",
+        "projectName": "exercicio-bonus",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj",
+        "projectName": "exercicio-dois",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj",
+        "projectName": "exercicio-sete",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj",
+        "projectName": "exercicio-tres",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj",
+        "projectName": "exercicio-um",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\exercicio-um\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj",
+        "projectName": "main-program",
+        "projectPath": "C:\\repos\\desafio-tdd\\src\\main-program\\main-program.csproj",
+        "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\desafio-tdd\\src\\main-program\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj": {
+                "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-bonus\\exercicio-bonus.csproj"
+              },
+              "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj": {
+                "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-dois\\exercicio-dois.csproj"
+              },
+              "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj": {
+                "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-sete\\exercicio-sete.csproj"
+              },
+              "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj": {
+                "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-tres\\exercicio-tres.csproj"
+              },
+              "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj": {
+                "projectPath": "C:\\repos\\desafio-tdd\\src\\exercicio-um\\exercicio-um.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

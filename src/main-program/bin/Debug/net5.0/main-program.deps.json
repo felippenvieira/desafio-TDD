@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "main-program/1.0.0": {
+        "dependencies": {
+          "exercicio-bonus": "1.0.0",
+          "exercicio-dois": "1.0.0",
+          "exercicio-sete": "1.0.0",
+          "exercicio-tres": "1.0.0",
+          "exercicio-um": "1.0.0"
+        },
+        "runtime": {
+          "main-program.dll": {}
+        }
+      },
+      "exercicio-bonus/1.0.0": {
+        "runtime": {
+          "exercicio-bonus.dll": {}
+        }
+      },
+      "exercicio-dois/1.0.0": {
+        "runtime": {
+          "exercicio-dois.dll": {}
+        }
+      },
+      "exercicio-sete/1.0.0": {
+        "runtime": {
+          "exercicio-sete.dll": {}
+        }
+      },
+      "exercicio-tres/1.0.0": {
+        "runtime": {
+          "exercicio-tres.dll": {}
+        }
+      },
+      "exercicio-um/1.0.0": {
+        "runtime": {
+          "exercicio-um.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "main-program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercicio-bonus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercicio-dois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercicio-sete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercicio-tres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercicio-um/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
